@@ -81,7 +81,9 @@ tl.to("#flashnet", {
     .to("#swt", {
         width: "500px",
     })
-
+    .to("#techystar", {
+        width: "500px",
+    })
 
 
 let tll = gsap.timeline({
