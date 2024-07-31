@@ -87,7 +87,7 @@ tl.to("#flashnet", {
 let tll = gsap.timeline({
     scrollTrigger: {
         trigger: '#Contact',
-        markers: true,
+        // markers: true,
         start: '30% 50%',
         end: '90% 50%',
         scrub: true,
@@ -112,7 +112,7 @@ tll.to("#contactt", {
 let tlll = gsap.timeline({
     scrollTrigger: {
         trigger: '#About_us',
-        markers: true,
+        // markers: true,
         start: '0% 50%',
         end: '50% 50%',
         scrub: true,
